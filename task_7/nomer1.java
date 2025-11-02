@@ -24,3 +24,4 @@ public class nomer1 implements MathCalculable{
         return 2 * PI * radius;
     }
 }
+
